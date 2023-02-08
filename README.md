@@ -4,4 +4,4 @@ This repository contains the source code for the implementation of _Multiply and
 
 ### Citation
 
-L. Prono, P. Bich, M. Mangia, F. Pareschi, R. Rovatti, and G. Setti, "MAM: a Map-Reduce Paradigm for Aggressively Prunable Neurons at the Edge," submitted to _IEEE Transactions on Neural Networks and Learning Systems_, 2023
+L. Prono, P. Bich, M. Mangia, F. Pareschi, R. Rovatti, and G. Setti, "A Multiply-And-Max/min Neuron Paradigm for Aggressively Prunable Deep Neural Networks," submitted to _IEEE Transactions on Neural Networks and Learning Systems_, 2023
